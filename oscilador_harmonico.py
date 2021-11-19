@@ -1,5 +1,4 @@
 from vpython import *
-#GlowScript 3.1 VPython
 
 """GEOVANI LOPES SAMPAIO"""
 
